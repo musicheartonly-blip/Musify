@@ -266,7 +266,7 @@ Future<void> initialisation() async {
       builder: MusifyAudioHandler.new,
       config: const AudioServiceConfig(
         androidNotificationChannelId: 'com.gokadzev.musify',
-        androidNotificationChannelName: 'Musify',
+        androidNotificationChannelName: 'Rohit music',
         androidNotificationIcon: 'drawable/ic_launcher_foreground',
         androidShowNotificationBadge: true,
         androidStopForegroundOnPause: false,
